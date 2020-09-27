@@ -1,0 +1,306 @@
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.pdb
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csc.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csc.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csc.rsp
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csi.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csi.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csi.rsp
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.AppContext.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Collections.Immutable.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Console.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.Compression.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.AccessControl.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Claims.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.ValueTuple.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\vbc.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\vbc.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\vbc.rsp
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Web.Infrastructure.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Helpers.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Mvc.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Razor.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Razor.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Helpers.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Mvc.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csprojAssemblyReference.cache
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CoreCompileInputs.cache
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CopyComplete
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.pdb
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.InitialData.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.GenerateResource.cache
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.QuantityColumn.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.Quantity.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.RequiredValidation.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.AvailabilityStatusRequired.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.MyValidation.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Owin.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Newtonsoft.Json.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Owin.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Owin.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Newtonsoft.Json.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.IdentityMigrations.Initial.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.IdentityMigrations.CountryColumn.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.RemovingNullColumns.resources
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll.config
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.pdb
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csc.exe
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csc.exe.config
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csc.rsp
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csi.exe
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csi.exe.config
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csi.rsp
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.AppContext.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Collections.Immutable.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Console.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.IO.Compression.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.AccessControl.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Claims.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.ValueTuple.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\vbc.exe
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\vbc.exe.config
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\vbc.rsp
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe.config
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EntityFramework.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Web.Infrastructure.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Newtonsoft.Json.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Owin.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Helpers.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Mvc.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Razor.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EntityFramework.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Newtonsoft.Json.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Razor.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Helpers.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Mvc.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csprojAssemblyReference.cache
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.IdentityMigrations.Initial.resources
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.IdentityMigrations.CountryColumn.resources
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.InitialData.resources
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.QuantityColumn.resources
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.Quantity.resources
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.RequiredValidation.resources
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.AvailabilityStatusRequired.resources
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.MyValidation.resources
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.RemovingNullColumns.resources
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.GenerateResource.cache
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CoreCompileInputs.cache
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CopyComplete
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.dll
+C:\mvc\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll.config
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csc.exe
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csc.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csc.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csi.exe
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csi.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\csi.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.AppContext.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Console.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.IO.Compression.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Claims.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.ValueTuple.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\vbc.exe
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\vbc.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\vbc.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EntityFramework.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Newtonsoft.Json.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Owin.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Helpers.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Mvc.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Razor.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EntityFramework.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Newtonsoft.Json.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Razor.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Helpers.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\System.Web.Mvc.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csprojAssemblyReference.cache
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.IdentityMigrations.Initial.resources
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.IdentityMigrations.CountryColumn.resources
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.InitialData.resources
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.QuantityColumn.resources
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.Quantity.resources
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.RequiredValidation.resources
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.AvailabilityStatusRequired.resources
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.MyValidation.resources
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.RemovingNullColumns.resources
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.GenerateResource.cache
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CoreCompileInputs.cache
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CopyComplete
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.dll
+C:\Users\lleka\Documents\Akademia\Seanca 13\19.11.+Manage+Users+By+Admin\19.11. Manage Users By Admin\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.pdb
